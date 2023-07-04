@@ -1,0 +1,14 @@
+<html>
+  <head>
+    <title>Subtítulos</title>
+  </head>
+  
+  <body>
+    <hr>
+      <h1><b>1.PRIMEIRA LINGUAGEM DE MARCAÇÃO HTML:</b></h1>
+      <P>O HTML é umas das linguagens de marcação mais utilizada.</p>
+      <hr>
+        <h2><b>1.1Breve História</b></h2>
+        <p>A sua evolução começou em 1989, quando Tim Berners-Lee, um cientista da computação britânico que trabalhava no CERN (Organização Europeia para a Pesquisa Nuclear), desenvolveu a ideia da World Wide Web. A primeira versão do HTML, conhecida como HTML 1.0, foi lançada em 1991.</p>
+        </body>
+      </html>

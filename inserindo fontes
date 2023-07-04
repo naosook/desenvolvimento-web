@@ -1,0 +1,12 @@
+<html>
+  <head>
+    <p><font face="verdana" size="3" color="ff0000">Inserindo efeitos na minha página <em>web.</em></font></p><br>
+  </head>
+  
+  <body>
+    Nome:<strong> Amanda</strong><br>
+    Data de Nascimento:<strong><u>09/01/2000</strong></u>
+    <br>Endereço: <strong>Rua Sergipe</strong>
+    <hr>
+      <p>MUITO LEGAL!!!!</p>
+      <hr>
